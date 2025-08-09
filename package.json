@@ -1,0 +1,1 @@
+{"name":"MoneyFinder","version":"0.1.0","private":true,"workspaces":["mobile","web"],"dependencies":{"react":"^18.0.0","react-dom":"^18.0.0"}}
